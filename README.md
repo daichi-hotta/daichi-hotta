@@ -15,13 +15,6 @@
   <a href="https://atcoder.jp/users/Daichi0812">
     <img alt="my_atcoder_rating" src="https://badgen.org/img/atcoder/Daichi0812/rating/algorithm">
   </a>
-  <a href="https://www.kaggle.com/glound">
-    <img
-      height="20"
-      src="https://img.shields.io/badge/Kaggle-035a7d?style=flat&logo=kaggle&logoColor=white"
-      alt="Kaggle Profile"
-    />
-  </a>
 </p>
 
 ## Stats
