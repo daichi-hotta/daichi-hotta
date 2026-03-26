@@ -5,10 +5,10 @@
   <a href="https://github.com/daichi0812">
     <img height="20" src="https://img.shields.io/github/followers/daichi0812?label=follow&logo=github&style=flat" />
   </a>
-  <a href="https://qiita.com/Glound">
+  <a href="https://qiita.com/Daichi8120">
     <img
       height="20"
-      src="https://badgen.org/img/qiita/Glound/contributions?style=flat"
+      src="https://badgen.org/img/qiita/Daichi8120/contributions?style=flat"
       alt="Qiita Articles"
     />
   </a>
